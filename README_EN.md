@@ -1,4 +1,4 @@
-### [中文文档](https://github.com/sherlonWang/gifplayer)|[English Document](https://github.com/sherlonWang/gifplayer/README_EN.md)
+### [中文文档](https://github.com/sherlonWang/gifplayer)|[English Document](https://github.com/sherlonWang/gifplayer/blob/master/README_EN.md)
 
 # GIF play&pause
 

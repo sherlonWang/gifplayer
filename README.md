@@ -1,4 +1,4 @@
-### [中文文档](https://github.com/sherlonWang/gifplayer)|[English Document](https://github.com/sherlonWang/gifplayer/README_EN.md)
+### [中文文档](https://github.com/sherlonWang/gifplayer)|[English Document](https://github.com/sherlonWang/gifplayer/blob/master/README_EN.md)
 
 # GIF图片播放/暂停
 
@@ -31,6 +31,8 @@
 ```
 
 #### 使用GIF图片
+
+#### 使用img标签，GIF路径写到data-src属性中。
 
 ```html
 <img data-src="images/2.gif"/>
