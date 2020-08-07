@@ -12,13 +12,13 @@
 
 ### Otherwise it would look something like this:
 
-![](https://ws1.sinaimg.cn/large/007GlEtugy1g3i996iurlg30go0csqck.gif)
+![](https://cdn.jsdelivr.net/gh/sherlonWang/imgbed/picgo20200807144109.gif)
 
 ### WTF! Wait!! Slow down!!! Too fast!! I haven’t even figured out what the last step is doing.
 
 ### But if we can control the GIF's playing like this, it will be cool!
 
-![](https://ws1.sinaimg.cn/large/007GlEtuly1g3hh2g4tocg30le0gdtm9.gif)
+![](https://cdn.jsdelivr.net/gh/sherlonWang/imgbed/picgo20200807144846.gif)
 
 ### Somebody may have a  question. Why don't we use video? In my opinion, it is not necessary to use video to explain such issue. what do you think?
 
@@ -48,6 +48,6 @@
 
 #### It will appear a playing icon in the top center of the GIF. We can click it to play or pause the GIF like this:
 
-![](https://ws1.sinaimg.cn/large/007GlEtuly1g3hh27ct35g30ci05in8q.gif)
+![](https://cdn.jsdelivr.net/gh/sherlonWang/imgbed/picgo20200807145127.gif)
 
 #### Hope it helps you!

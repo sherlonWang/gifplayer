@@ -8,11 +8,11 @@
 
 #### 我们在浏览一些具有逻辑性的GIF动图时，往往希望GIF可以暂停，留下我们思考的时间。不然就会出现如下情景：
 
-![](https://ws1.sinaimg.cn/large/007GlEtugy1g3i996iurlg30go0csqck.gif)
+![](https://cdn.jsdelivr.net/gh/sherlonWang/imgbed/picgo20200807144109.gif)
 
 #### 卧槽！等等！慢点啊！还没想明白上一步在干嘛呢！是不是比较崩溃？这时候如果可以随时控制GIF暂停播放，是不是就爽多了，比如下面这样：
 
-![](https://ws1.sinaimg.cn/large/007GlEtuly1g3hh2g4tocg30le0gdtm9.gif)
+![](https://cdn.jsdelivr.net/gh/sherlonWang/imgbed/picgo20200807144846.gif)
 
 #### 有人可能会问，直接用视频格式不就行了吗？确实，用视频肯定行，但是有些步骤本来就比较少，用视频就有点杀鸡用牛刀的感觉了...
 
@@ -44,6 +44,6 @@
 
 #### GIF图片处理后，会在图片中上方显示一个暂停\播放图标，可以点击该图标实现GIF的暂停与播放。效果如下：
 
-![](https://ws1.sinaimg.cn/large/007GlEtuly1g3hh27ct35g30ci05in8q.gif)
+![](https://cdn.jsdelivr.net/gh/sherlonWang/imgbed/picgo20200807145127.gif)
 
 #### 希望对你有点帮助哦！
